@@ -19,7 +19,7 @@ class main(object):
     @classmethod
     def main(cls, x):
         x = {
-            'author': 'OgyDotMy - Thanks to Author:Dragon',
+            'author': 'OgyDotMy - Thanks to Dragon',
             'url': 'https://bins-su-api.now.sh/api/'+x,
             'version': '0.0.1'
         }
